@@ -230,3 +230,8 @@ curl -X GET http://localhost:3000/auth/profile \
   "message": "Invalid credentials"
 }
 ```
+
+---
+
+**Submission by:** Nayan Mandal  
+Reach me at: bt22csd035@iiitn.ac.in (Professional Email) | nayan.iiitn@gmail.com (Personal Email)
