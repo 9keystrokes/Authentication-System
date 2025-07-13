@@ -1,4 +1,4 @@
-# Authentication System Backend
+# Authentication System (Backend-only)
 
 ## Setup Instructions
 
